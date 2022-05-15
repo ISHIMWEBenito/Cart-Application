@@ -6,9 +6,10 @@
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
-  background-color: rebeccapurple;
+  background-color: #357da1;
   align-items: center;
   margin-top: 10%;
+  border-radius: 10px;
 }
 h1 {
   padding: 30px;
