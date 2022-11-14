@@ -1,1 +1,1 @@
-Redux Shopping Cart
+Redux Shopping Carting
